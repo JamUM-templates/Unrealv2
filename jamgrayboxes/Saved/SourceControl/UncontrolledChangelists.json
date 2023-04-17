@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/alang/Desktop/Github/New folder/Unreal/jamgrayboxes/Content/Maps/Tutorial_Test_GraveBox.umap",
+				"C:/Users/alang/Desktop/Github/New folder/Unreal/jamgrayboxes/Content/Blueprints/NewBlueprint.uasset",
+				"C:/Users/alang/Desktop/Github/New folder/Unreal/jamgrayboxes/Content/Maps/tutorial_fondo.uasset",
+				"C:/Users/alang/Desktop/Github/New folder/Unreal/jamgrayboxes/Content/Maps/tutorial_fondo_Sprite.uasset",
+				"C:/Users/alang/Desktop/Github/New folder/Unreal/jamgrayboxes/Content/Maps/tutorial_fondo_TileSet.uasset",
+				"C:/Users/alang/Desktop/Github/New folder/Unreal/jamgrayboxes/Content/Character/Witchy.uasset",
+				"C:/Users/alang/Desktop/Github/New folder/Unreal/jamgrayboxes/Content/Character/Witchy_Sprite.uasset"
+			]
+		}
+	]
+}
